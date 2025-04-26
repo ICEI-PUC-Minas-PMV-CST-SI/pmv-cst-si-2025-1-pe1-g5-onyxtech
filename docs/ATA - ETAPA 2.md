@@ -11,4 +11,4 @@ Talita Figueiredo Fernandes.
 - Fiz a tabela do Shadow IT, e clasifiquei de acordo com a Matriz de Classificação e Tratamento de Riscos da Informação. 
 - Ornanizei o documento,fiz a revisão do material e formatação.
 - Criação dos topicos 1 e 5 ao 10 da PSI, formatei o doc e inseri as referencias.
-- Auxiliei meus coelgas no que se fazia necessario.  
+- Auxiliei meus colegas no que se fazia necessario.  
