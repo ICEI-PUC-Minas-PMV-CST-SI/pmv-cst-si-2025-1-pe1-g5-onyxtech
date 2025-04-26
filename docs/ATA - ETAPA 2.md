@@ -8,6 +8,7 @@ Lucas Guenko Shiroma.
 
 Talita Figueiredo Fernandes.
 - Fiz o levantamento das informações sobre a empresa para a etapa 2, entrevistando o responsavel pela TI da empresa.
+- Fiz a tabela do Shadow IT, e clasifiquei de acordo com a Matriz de Classificação e Tratamento de Riscos da Informação. 
 - Ornanizei o documento,fiz a revisão do material e formatação.
 - Criação dos topicos 1 e 5 ao 10 da PSI, formatei o doc e inseri as referencias.
 - Auxiliei meus coelgas no que se fazia necessario.  
