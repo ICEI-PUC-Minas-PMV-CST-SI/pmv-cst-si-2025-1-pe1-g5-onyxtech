@@ -12,3 +12,9 @@ Talita Figueiredo Fernandes.
 - Ornanizei o documento,fiz a revisão do material e formatação.
 - Criação dos topicos 1 e 5 ao 10 da PSI, formatei o doc e inseri as referencias.
 - Auxiliei meus colegas no que se fazia necessario.  
+
+Naiara Almeida Barros:
+- Pesquisei e selecionei as Leis
+- Fiz tabela de associação dos processos organizacionais e as Leis
+- Formatação seguindo as normas da ABNT
+- Me coloquei a disposição para auxiliar o grupo
