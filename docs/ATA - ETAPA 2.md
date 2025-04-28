@@ -23,6 +23,20 @@ Pedro Manoel
 -Adição de informações nos itens 3 e 4 do projeto
 -Auxilio de ideias em grupo
 
+Vagner Cesar Lima:
+
+No tópico Princípios de Segurança, contribui aplicando as seguintes políticas: 
+- Em Confidencialidade, adicionei as políticas a seguir: Classificação de informação, Uso de criptografia e restrição de acessos.
+- Em Integridade, adicionei as políticas a seguir: Backup e verificação, Assinatura digital e validação e verificação de dados.
+- Em Disponibilidade, adicionei as políticas a seguir: Equipe de TI, Equipe de gestão e recuperação de dados.
+
+No tópico Gerenciamento de Acesso, contribui aplicando as seguintes políticas: 
+- Em Controle de Acesso, adicionei as políticas a seguir: Definir perfis de usuário por função, Controles de acesso físico a servidores, datacenter, Firewall, Switch  e rastreamento de acessos.
+- Em Autenticação, adicionei as políticas a seguir: Autenticação Multifator (MFA), Senhas fortes e política de expiração, Sessões com tempo de expiração automática.
+
+Em Autorização, adicionei as políticas a seguir: Matriz de permissões, Validação de permissões e Logs de autorização.
+No tópico Segurança física e Ambiental, contribui aplicando as seguintes políticas: 
+- Em Proteção de instalações, adicionei as políticas a seguir: Sistema de CFTV, plano de contingência e controle de registro.
 
 
 
