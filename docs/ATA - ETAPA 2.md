@@ -18,8 +18,11 @@ Naiara Almeida Barros:
 - Fiz tabela de associação dos processos organizacionais e as Leis
 - Formatação seguindo as normas da ABNT
 - Me coloquei a disposição para auxiliar o grupo
+  
+Pedro Manoel
+-Adição de informações nos itens 3 e 4 do projeto
+-Auxilio de ideias em grupo
 
 
-Pedro Manoel 
--Adição de informaçoes nos itens 3 e 4 do projeto
--Auxilio de ideias em grupo 
+
+
