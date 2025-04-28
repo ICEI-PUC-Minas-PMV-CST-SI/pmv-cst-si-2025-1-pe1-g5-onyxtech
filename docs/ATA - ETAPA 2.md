@@ -38,5 +38,9 @@ Em Autorização, adicionei as políticas a seguir: Matriz de permissões, Valid
 No tópico Segurança física e Ambiental, contribui aplicando as seguintes políticas: 
 - Em Proteção de instalações, adicionei as políticas a seguir: Sistema de CFTV, plano de contingência e controle de registro.
 
+Tiago Cruz
+- Tirei algumas duvidas
+- Ajudei com dicas
+- Fiz uma tabela com os ativos que o Vagner passou
 
 
