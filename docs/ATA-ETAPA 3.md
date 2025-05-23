@@ -6,3 +6,5 @@ Lucas Guenko Shiroma
 - fiz a capa da etapa 3
 - formatei parte do trabalho
 
+Talita Fernandes 
+Auxiliei em todo trabalho, fiz a Mapeamento de Segurança da Informação , e formatei parte do trabalho.
