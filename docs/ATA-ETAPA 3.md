@@ -9,6 +9,9 @@ Lucas Guenko Shiroma
 Talita Fernandes 
 Auxiliei em todo trabalho, fiz a Mapeamento de Segurança da Informação , e formatei parte do trabalho.
 
+
 Tiago Rodrigues de Oliveira e Cruz
 - Prestei suporte esclarecendo dúvidas da equipe.
 - Fui responsável pela elaboração da tabela de CAPEX e OPEX.
+
+
